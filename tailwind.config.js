@@ -29,6 +29,7 @@ module.exports = {
         secondary: "#F5F5F5", // Custom Secondary Color 30% Primary Off-whit
         neutral: "#D98D46",   // Neutral 10% Highlights Muted Orange 
         neutralAccents: "#E0B862",   // Neutral 10% Highlights Soft Yellow headings, buttons, or call-to-action elements
+        CardBackground: "#3A3A3A",   // Slightly lighter dark gray 
       },
       fontSize: {
         xs: ["0.75rem", "1rem"],  // Custom small font size
