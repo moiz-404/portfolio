@@ -1,35 +1,3 @@
-Colors:
-Primary Colors:
-
-Purple: text-purple-800 (for main heading)
-Blue: text-blue-500 (for highlighted "My Portfolio" text)
-Gray:
-Light gray: bg-gray-50 (for background color)
-Dark gray: text-gray-700 (for the paragraph text)
-Darker gray: text-gray-900 (for section titles)
-Light gray: border-gray-200 (for the timeline line)
-Light gray: text-gray-600 (for company descriptions)
-Secondary Colors:
-
-White: bg-white, text-white (for background and text of elements like timeline items)
-Blue: bg-blue-500 (for timeline item circle background)
-Fonts:
-Font Family:
-
-The default font used is font-sans, which is the standard sans-serif font in Tailwind CSS.
-Font Sizes:
-
-Main Heading: text-4xl sm:text-5xl
-Subheading (Experience section): text-3xl sm:text-4xl
-Paragraph text: text-lg
-Timeline Item Titles: text-xl
-Timeline Item Numbers: font-bold text-lg
-
-
-
-
-
-
 // {/* Experience Timeline Section */}
 // <div className="max-w-7xl mx-auto px-6">
 // <h2 className="text-3xl sm:text-4xl font-semibold text-secondary mb-8">
