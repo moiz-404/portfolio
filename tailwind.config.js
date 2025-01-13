@@ -25,10 +25,17 @@ module.exports = {
         // primary: "#EFFAFD",   // Pale blue 
         // secondary: "#4A8BDF", // royal blue
         // neutral: "#A0006D",   // eggplant
-        primary: "#2E2E2E",   // Custom Primary Color 60% Background Dark Gray
-        secondary: "#F5F5F5", // Custom Secondary Color 30% Primary Off-whit
-        neutral: "#D98D46",   // Neutral 10% Highlights Muted Orange 
-        neutralAccents: "#E0B862",   // Neutral 10% Highlights Soft Yellow headings, buttons, or call-to-action elements
+        // bg: #3D3E42
+        // bg2: #31333B
+        // heading: #FFC86B
+        // font: #F9F9F9
+        // card: #3D3E42
+        // card: hover: #F0BF6C
+
+        primary: "#3D3E42",   // Custom Primary Color 60% Background Dark Gray
+        secondary: "#F9F9F9", // Custom Secondary Color 30% Primary Off-whit
+        neutral: "#FFC86B",   // Neutral 10% Highlights Muted Orange 
+        neutralAccents: "#F0BF6C",   // Neutral 10% Highlights Soft Yellow headings, buttons, or call-to-action elements
       },
       fontSize: {
         xs: ["0.75rem", "1rem"],  // Custom small font size
